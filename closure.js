@@ -8,3 +8,7 @@ function parent() {
     }
     console.log(y); //inside of child function
 }
+
+parent();
+
+/* baap er phone ami nite pari but baap amar phone nite pare na */
