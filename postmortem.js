@@ -12,3 +12,9 @@ function markZuckerbergKaku() {
 const charlesbables = "I am togo bap charles bales";
 steveKaku();
 console.log(charlesbables);
+
+//output will be:
+/* I am mark zuckerberg
+I am bill gates
+I am steve jobs
+I am togo bap charles bales */
